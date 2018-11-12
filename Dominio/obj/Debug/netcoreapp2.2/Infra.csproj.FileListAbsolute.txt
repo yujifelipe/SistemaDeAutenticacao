@@ -1,0 +1,12 @@
+c:\users\yuji\source\repos\SistemaDeAutenticacao\Dominio\bin\Debug\netcoreapp2.2\Infra.deps.json
+c:\users\yuji\source\repos\SistemaDeAutenticacao\Dominio\bin\Debug\netcoreapp2.2\Infra.dll
+c:\users\yuji\source\repos\SistemaDeAutenticacao\Dominio\bin\Debug\netcoreapp2.2\Infra.pdb
+c:\users\yuji\source\repos\SistemaDeAutenticacao\Dominio\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+c:\users\yuji\source\repos\SistemaDeAutenticacao\Dominio\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+c:\users\yuji\source\repos\SistemaDeAutenticacao\Dominio\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+c:\users\yuji\source\repos\SistemaDeAutenticacao\Dominio\obj\Debug\netcoreapp2.2\Infra.csproj.CoreCompileInputs.cache
+c:\users\yuji\source\repos\SistemaDeAutenticacao\Dominio\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+c:\users\yuji\source\repos\SistemaDeAutenticacao\Dominio\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+c:\users\yuji\source\repos\SistemaDeAutenticacao\Dominio\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+c:\users\yuji\source\repos\SistemaDeAutenticacao\Dominio\obj\Debug\netcoreapp2.2\Infra.dll
+c:\users\yuji\source\repos\SistemaDeAutenticacao\Dominio\obj\Debug\netcoreapp2.2\Infra.pdb

@@ -1,0 +1,11 @@
+C:\Users\yuji\Source\Repos\SistemaDeAutenticacao\Infra\bin\Debug\netcoreapp2.1\Dominio.dll
+C:\Users\yuji\Source\Repos\SistemaDeAutenticacao\Infra\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\yuji\Source\Repos\SistemaDeAutenticacao\Infra\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yuji\Source\Repos\SistemaDeAutenticacao\Infra\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\yuji\Source\Repos\SistemaDeAutenticacao\Infra\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+C:\Users\yuji\Source\Repos\SistemaDeAutenticacao\Infra\obj\Debug\netcoreapp2.1\Infra.csprojAssemblyReference.cache
+C:\Users\yuji\Source\Repos\SistemaDeAutenticacao\Infra\obj\Debug\netcoreapp2.1\Infra.csproj.CoreCompileInputs.cache
+C:\Users\yuji\Source\Repos\SistemaDeAutenticacao\Infra\obj\Debug\netcoreapp2.1\Infra.AssemblyInfoInputs.cache
+C:\Users\yuji\Source\Repos\SistemaDeAutenticacao\Infra\obj\Debug\netcoreapp2.1\Infra.AssemblyInfo.cs
+C:\Users\yuji\Source\Repos\SistemaDeAutenticacao\Infra\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yuji\Source\Repos\SistemaDeAutenticacao\Infra\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.xml
